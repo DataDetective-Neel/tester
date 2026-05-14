@@ -1,1 +1,1 @@
-Tester website for the pipelineiq 
+Tester website for the PipelineIQ
